@@ -1,0 +1,12 @@
+# A apresentação tem o repositório próprio dela
+apresentacao/
+
+# Config local do Claude Code / preview
+.claude/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Dependências (não usadas)
+node_modules/
