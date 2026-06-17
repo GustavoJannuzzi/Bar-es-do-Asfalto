@@ -2,7 +2,9 @@
 
 ## CONCEITO
 
-Não é mapa geográfico fiel: é um **mapa estilizado de territórios criminais**, mistura de diagrama de metrô com xilogravura. As 10 regiões são blocos orgânicos conectados por "linhas de rota"; a Baía de Guanabara em Azul Guanabara separa Niterói/SG; morros dos Complexos desenhados como triângulos hachurados.
+Não é mapa geográfico fiel: é um **mapa estilizado de territórios criminais**, mistura de diagrama de metrô com xilogravura. As **10 regiões do núcleo metropolitano** são blocos orgânicos conectados por "linhas de rota"; a Baía de Guanabara em Azul Guanabara separa Niterói/SG; morros dos Complexos desenhados como triângulos hachurados.
+
+> **Expansão (regiões 11–12):** a Região dos Lagos / Costa do Sol e a Costa Verde são **fronteiras de expansão** (fora da metrópole — ver 3.1). No tabuleiro-base A2, entram como **dois tiles de expansão opcionais** nas bordas (faixa litorânea à direita/esquerda), fora da grade principal, para campanhas de "interiorização" do império.
 
 Cada região no tabuleiro mostra:
 1. Nome + número + **bicho-patrono** em marca d'água
